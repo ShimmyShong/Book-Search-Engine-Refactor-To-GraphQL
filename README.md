@@ -1,4 +1,4 @@
-# E-Commerce Backend [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Book Search Engine Refactor to GraphQL [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Website Screenshot](client\public\chrome_kaD7vwuKKw.png)
 
