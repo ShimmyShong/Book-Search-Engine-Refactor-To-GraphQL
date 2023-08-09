@@ -1,6 +1,7 @@
 # Book Search Engine Refactor to GraphQL [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Website Screenshot](client\public\chrome_kaD7vwuKKw.png)
+[chrome_kaD7vwuKKw](https://github.com/ShimmyShong/Book-Search-Engine-Refactor-To-GraphQL/assets/123122824/f5efcafa-4bfa-4756-831b-e42170a098eb)
+
 
 ## Description
 This is a Google Book Search website backend that utilizes GraphQL to handle server requests and interactions with a MongoDB database. The backend provides various queries and mutations to manage users and their saved books.
