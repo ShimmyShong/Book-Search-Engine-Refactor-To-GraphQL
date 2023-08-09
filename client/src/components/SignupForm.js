@@ -35,11 +35,13 @@ const SignupForm = () => {
         variables: userFormData
       })
 
+      console.log(response)
+
       if (!response.ok) {
         throw new Error('something went wrong!');
       }
-      console.log(token)
-      const token = response.data.addUser;
+      const { token } = response.data.addUser;
+      console.log(token);
       Auth.login(token);
     } catch (err) {
       console.error(err);
