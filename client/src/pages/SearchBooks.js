@@ -57,6 +57,7 @@ const SearchBooks = () => {
       }));
 
       setSearchedBooks(bookData);
+      console.log(bookData)
       setSearchInput('');
     } catch (err) {
       console.error(err);
@@ -80,7 +81,7 @@ const SearchBooks = () => {
         variables: bookToSave
       });
 
-      if (!response.ok) {
+      if (!response.data) {
         throw new Error('something went wrong!');
       }
 
