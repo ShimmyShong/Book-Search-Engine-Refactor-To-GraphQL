@@ -1,6 +1,6 @@
 # Book Search Engine Refactor to GraphQL [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[chrome_kaD7vwuKKw](https://github.com/ShimmyShong/Book-Search-Engine-Refactor-To-GraphQL/assets/123122824/f5efcafa-4bfa-4756-831b-e42170a098eb)
+![chrome_kaD7vwuKKw](https://github.com/ShimmyShong/Book-Search-Engine-Refactor-To-GraphQL/assets/123122824/cc9b5423-3ff8-4316-a679-61b6c1edd3c9)
 
 
 ## Description
